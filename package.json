@@ -1,11 +1,21 @@
 {
-  "name": "censorify",
+  "name": "censorifyRaja",
   "version": "1.0.0",
   "description": "\"censorify words out of text\",\"",
   "main": "censortext.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rnandyala/censorifyRaja"
+  },
+"keywords": [
+  "censor",
+  "raja"],
+  "dependencies" : {},
+  "engines": {
+    "node": "*"
+  }
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "\"raja\"",
   "license": "ISC"
-}
